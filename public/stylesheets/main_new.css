@@ -1,0 +1,23 @@
+.canvaswrapper{
+    width: 800;
+    height: 500;
+}
+
+.mainarea{
+    width: 100%;
+    display: flex;
+}
+
+.attention{
+    width: 50%;
+    height: 100px;
+    display: table;
+}
+
+.attention p{
+    color: red;
+    text-align:center; 
+    vertical-align: middle;
+    display: table-cell;
+    font-size:60px 
+}
